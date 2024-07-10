@@ -133,3 +133,4 @@ venv.bak/
 *.txt
 *.csv
 data/Yelp Dataset/*.json
+/1 爬虫&API获得数据/1.1 我爱我家爬虫/input/msedgedriver
